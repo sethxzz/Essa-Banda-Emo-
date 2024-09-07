@@ -41,4 +41,5 @@ Este projeto é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais 
 Este projeto é apenas para fins de diversão e não tem a intenção de ser uma fonte de informação precisa sobre estilos musicais.
 
 **Vamos juntos descobrir quais bandas são emo e quais não são! **
+
 https://vercel.com/luccas-projects-64038803/essa-banda-emo
